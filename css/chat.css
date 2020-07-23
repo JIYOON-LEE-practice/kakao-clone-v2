@@ -20,8 +20,12 @@
 }
 
 .chats-body {
+<<<<<<< Updated upstream
     background-image: url("../images/chatbg.png");
     min-height: 1000vh;
+=======
+    background-image: url("https://user-images.githubusercontent.com/61203167/88141615-e756aa80-cc2e-11ea-88af-73417a3b01d3.png");    min-height: 1000vh;
+>>>>>>> Stashed changes
 }
 
 .chat__write--container {
